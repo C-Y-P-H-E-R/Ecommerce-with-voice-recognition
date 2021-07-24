@@ -1,4 +1,4 @@
-<img src="https://kush-portfolio.netlify.app/images/1.png" width="600px" height="500px">
+<img src="https://kush-portfolio.netlify.app/images/1.png" width="1200px" height="600px">
 
 # Getting Started with Create React App
 
